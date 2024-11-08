@@ -14,7 +14,7 @@ To develop a simple C program to implement Rail Fence Cipher.
 
 <br>
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 <br>
 
