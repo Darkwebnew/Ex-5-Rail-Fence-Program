@@ -1,19 +1,39 @@
-# Ex-5 Rail Fence
+# Ex-5 RAIL FENCE
 
-Rail Fence Cipher using with different key values
+<br>
+
+## DATE:
+
+<br>
 
 ## AIM:
+
+<br>
+
 To develop a simple C program to implement Rail Fence Cipher.
+
+<br>
 
 ## DESIGN STEPS:
 
+<br>
+
 Step 1: Design of Rail Fence Cipher algorithnm
+
+<br>
 
 Step 2: Implementation using C or pyhton code
 
+<br>
+
 Step 3: Testing algorithm with different key values. ALGORITHM DESCRIPTION: In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
+<br>
+
 ## PROGRAM:
+
+<br>
+
 ```
 #include <iostream>
 #include <cstring>
@@ -121,10 +141,19 @@ int main() {
     return 0;
 }
 ```
+
+<br>
+
 ## OUTPUT:
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/28a62870-7554-4ffa-9771-042934b1df7e)
 
+<br>
+
 ## RESULT:
+
+<br>
 
 The program is executed successfully
